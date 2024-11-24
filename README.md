@@ -8,6 +8,7 @@ Projeto FCSC
 
 
 2º Passo) Colocar suas credenciais do WIFI
+
 ![image](https://github.com/user-attachments/assets/ef381ca8-ef84-46b9-a791-3ed7b2852bfe)
 
 3º Passo) Fazer uploado no Esp, disconectar e reconectar no wifi. Então verificar o monitor serial em 115200 e acessar o https que estará escrito no monitor serial.
