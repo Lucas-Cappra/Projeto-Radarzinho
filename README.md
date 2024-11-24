@@ -17,5 +17,12 @@ Projeto FCSC
 Referências: 
 
 https://blog.eletrogate.com/introducao-ao-esp32-cam/
+
+
 https://dronebotworkshop.com/esp32-cam-intro/
+
+
 https://www.usinainfo.com.br/blog/programando-esp32-cam-wifi-com-esp32-cam-mb/
+
+
+https://circuitdigest.com/projects/license-plate-recognition-using-esp32-cam
